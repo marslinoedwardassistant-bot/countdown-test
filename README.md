@@ -1,8 +1,8 @@
 # countdown-test
 
-صفحة عد تنازلي بسيطة بالعربية (RTL) حتى ١٠ يناير ٢٠٢٧ بتوقيت القاهرة.
+صفحة عد تنازلي بسيطة بالعربية (RTL) حتى ١ مارس ٢٠٢٨ بتوقيت القاهرة.
 
-A minimal dark Arabic (RTL) countdown page to January 10, 2027, Cairo time.
+A minimal dark Arabic (RTL) countdown page to March 1, 2028, Cairo time.
 
 ## المحتويات
 
